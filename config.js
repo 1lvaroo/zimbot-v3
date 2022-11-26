@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['212693562443',212777466518']
+global.premium = ['212713685000','212777466518']
+global.botname = 'alvaro_losinda'
+global.ownername = '𝐀𝐋𝐕𝐀𝐑𝐎⃢🌹ٱࢦأمࢪيــڪي'
+global.group1 = 'https://chat.whatsapp.com/B55FUnsJRAmIgdXSaYsS3N'
+global.group2 = ''
+global.packname = '𝐀𝐋𝐕𝐀𝐑𝐎⃢🌹ٱࢦأمࢪيــڪي'
+global.num owner = 'wa.me/212777466518'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,23 +65,23 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = '𝐋𝐎𝐒𝐈𝐍𝐃𝐀⃢🌹ٱࢦأمࢪيــڪية'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
+        ban: '*نوض تقود راك مباني   كتب .owner باش نحيدلك البان*',
     horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
+    admin: '*غي المقود لي يكتب هاد الامر*',
     botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
+    owner: '*غي المقود لي يكتب هاد امر*',
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
     wait: '*whoa wait zim bot processing okay*',
-    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
+    endLimit: '*قويتي باراك عليك .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
     premium: "Infinity",
