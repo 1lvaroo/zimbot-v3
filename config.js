@@ -1,15 +1,15 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮𝐀𝐋𝐕𝐀𝐑𝐎⃢🌹ٱࢦأمࢪيــڪي
+//▮𝐋𝐎𝐒𝐈𝐍𝐃𝐀⃢🌹ٱࢦأمࢪيــڪية
+//▮wa.me/212777466518 
 //▮
-//▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
-//▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮
+//▮
+//▮
+//▮
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING alvaro 
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -43,7 +43,8 @@ global.botname = 'alvaro_losinda'
 global.ownername = '𝐀𝐋𝐕𝐀𝐑𝐎⃢🌹ٱࢦأمࢪيــڪي'
 global.group1 = 'https://chat.whatsapp.com/B55FUnsJRAmIgdXSaYsS3N'
 global.group2 = ''
-global.packname = '𝐀𝐋𝐕𝐀𝐑𝐎⃢🌹ٱࢦأمࢪيــڪي'
+global.packname = '𝐀𝐋𝐕𝐀𝐑𝐎⃢🌹ٱࢦأمࢪيــڪي
+𝐋𝐎𝐒𝐈𝐍𝐃𝐀⃢🌹ٱࢦأمࢪيــڪية'
 global.num owner = 'wa.me/212777466518'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,10 +66,10 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝐋𝐎𝐒𝐈𝐍𝐃𝐀⃢🌹ٱࢦأمࢪيــڪية'
+global.author = '𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓 𝒇𝒐𝒓 𝒆𝒗𝒆𝒓❤️💍'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['😹','!','.','🔪','🖤','🏌️‍♂️']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
